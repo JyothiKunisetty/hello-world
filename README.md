@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello EveryOne...
+
+I'm really new to this process...And I am makingup myself how to habituate to this GUI...
